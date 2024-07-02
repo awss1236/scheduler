@@ -1,7 +1,7 @@
 from threading import Thread
 from functools import reduce, wraps
 
-mawad = [('fr', 2), ('fl', 3), ('mt', 5), ('sex', 2), ('asd', 3)]
+mawad = [('fr', 2), ('fl', 3)] #, ('mt', 5), ('sex', 2), ('asd', 3)]
 awkat = []
 days = ['thnin', 'thlath', 'irb3a', '5mis', 'jim3a', 'sibt']
 for d in range(6):
