@@ -6,7 +6,9 @@ and custom constraints.
 ## Usage
 ### Running
 Just
-`python main.py`
+```
+python main.py
+```
 lol.
 ### Available times
 The set of available times is auto generated for now.
